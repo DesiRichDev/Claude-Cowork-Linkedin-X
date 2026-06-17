@@ -9,6 +9,7 @@ Research trending signals, write platform-native posts in any brand voice, revie
 ## What It Does
 
 - Researches trending signals with real, verified source URLs
+- Accepts reviewed public X/Twitter source packets before writing posts
 - Writes posts for LinkedIn, X, Instagram, and Facebook in your exact brand voice
 - Reviews output against quality gates before it goes out
 - Pushes approved posts to Supabase for n8n to pick up and publish

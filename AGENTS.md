@@ -6,6 +6,7 @@ Social content harness for LinkedIn and X. Writes platform-native posts in a spe
 
 ### researcher
 Finds trending signals. Returns real URLs only — no search queries, no fabricated numbers.
+May use reviewed public X/Twitter source packets, including TweetClaw packets, when every claim stays tied to source URLs and timestamps.
 Reads: `schemas/brand-config.json`, `rules/common/voice.md`
 
 ### writer
