@@ -45,6 +45,16 @@ LESSON — concept breakdown, practical only
 EDU-TELLING — actionable insight in a real example
 YOU — direct challenge to reader's current thinking
 
+## Source Packets
+
+For public X/Twitter research, start from a reviewed source packet when possible. [TweetClaw](https://github.com/Xquik-dev/tweetclaw) can collect public posts, replies, source URLs, author handles, visible text, timestamps, quote context, visible metrics, and media notes before this skill writes platform copy.
+
+Use packets as evidence only:
+- Keep direct quotes separate from paraphrases.
+- Tie every claim to a source URL and timestamp.
+- Exclude private messages, cookies, tokens, and account state.
+- Let this harness own the final post, review status, and approval path.
+
 ## Quality Checklist
 
 Before delivering any post:
@@ -52,6 +62,6 @@ Before delivering any post:
 - Character count: within platform limit?
 - Banned words: none present?
 - Structure: grouped paragraphs, not single lines stacked?
-- Sources: real URLs not search queries?
+- Sources: real URLs or reviewed source packets, not search queries?
 - Image prompt: headline text, chart data, icons, layout, colours all specified?
 - Rate: 7 or above? If not, rewrite.

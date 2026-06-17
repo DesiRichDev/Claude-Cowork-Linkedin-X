@@ -10,7 +10,7 @@
   "facebook_text": "string — max 1500 chars, warm conversational tone, no bullet lists",
   "image_prompt": "string — text description only, passed to image gen pipeline",
   "url": "string | null — direct source link included in post, or null",
-  "source": "string — all real URLs used for research, comma-separated",
+  "source": "string - all real URLs or reviewed source-packet URLs used for research, comma-separated",
   "framework_used": "STORY | LESSON | EDU-TELLING | YOU",
   "check": "YES | NO — did you read brand config + all rules files + verified sources are real URLs?",
   "agent_message": "string — notes, flags, or questions for the human reviewer",
